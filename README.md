@@ -51,7 +51,7 @@ This project performs basic arithmetic operations and stores results on-chain by
    - `Calculator.sol`
    - `StoreResult.sol`
    - `IStoreResult.sol`
-3. Compile all contracts using Solidity version `0.8.26`.
+3. Compile all contracts using Solidity version `0.8.24`.
 4. Deploy `StoreResult.sol` and copy its address.
 5. Deploy `Calculator.sol` using the address from step 4.
 6. Interact with the functions:
